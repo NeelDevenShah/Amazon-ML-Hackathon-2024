@@ -66,4 +66,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Kaggle: For providing the GPU support necessary for our project's success.
 Meta AI: For developing the Llama architecture that our model builds upon.
 
-Feel free to replace the placeholder image paths with the actual file names of your images!
+Feel free to give any suggestions or recommendations, regarding our approach!
